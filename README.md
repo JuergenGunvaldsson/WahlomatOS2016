@@ -1,0 +1,4 @@
+# WahlomatOS2016
+Wahlomat zur Kommunalwahl am 11. September 2016
+
+Dies ist eine erste Version eines Wahlomaten für die Kommunalwahl in Osnabrück 2016. Wir haben die online verfügbaren Programme genommen und die nach unserem Eindruck ersten fünf konkreten Aussagen im jeweiligen Programm aufgeschrieben. Der Zufallsgenerator in Spalte Z bringt bewusst die Reihenfolge quer durch die Parteien durcheinander. Setze Dein Kreuz in Spalte B, wenn Du zustimmst. Sortiere dann die Tabelle nach Spalte J und schaue, wo sich Deine Kreuze ballen. Das Ganze ist als Spiel gedacht, sehr schnell erstellt und jedes Lesen und Codieren ist auch persönlich gefärbt. Lest daher sorgfältig die Parteiprogramme im Kontext und informiert Euch über die Kandidaten. Geht wählen - wählt eine demokratische Partei! Und ergänzt sehr gerne die Statements in der Tabelle, indem Ihr dieses Verzeichnis verzweigt.
